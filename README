@@ -1,0 +1,4 @@
+This is a minimal repo for getting started with the ESP32 microcontroller unit (MCU) and the VL53L3CX time of flight (ToF) sensor. 
+
+It uses the following arduino library:
+https://github.com/stm32duino/VL53L3CX
